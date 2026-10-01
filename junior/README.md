@@ -27,9 +27,9 @@ Dart provides three ways to declare variables, each with different mutability an
 ├─────────────┬─────────────────┬─────────────────────────────────┤
 │   Keyword   │   Reassignable  │   When Value is Determined      │
 ├─────────────┼─────────────────┼─────────────────────────────────┤
-│    var      │       ✅       │   Runtime                        │
-│    final    │       ❌       │   Runtime (first assignment)     │
-│    const    │       ❌       │   Compile time                   │
+│    var      │       ✅        │   Runtime                       │
+│    final    │       ❌        │   Runtime (first assignment)    │
+│    const    │       ❌        │   Compile time                  │
 └─────────────┴─────────────────┴─────────────────────────────────┘
 ```
 
@@ -245,13 +245,13 @@ Dart provides three core collection types, each optimized for different use case
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                      COLLECTION TYPES                            │
+│                      COLLECTION TYPES                           │
 ├─────────────┬─────────────┬─────────────┬───────────────────────┤
 │   Type      │   Ordered   │  Duplicates │   Access Pattern      │
 ├─────────────┼─────────────┼─────────────┼───────────────────────┤
-│   List      │     ✅      │     ✅      │   By index [i]        │
-│   Set       │     ❌*     │     ❌      │   By value            │
-│   Map       │     ❌*     │  Keys: ❌   │   By key [key]        │
+│   List      │     ✅      │     ✅     │   By index [i]        │
+│   Set       │     ❌*     │     ❌     │   By value            │
+│   Map       │     ❌*     │  Keys: ❌  │   By key [key]        │
 └─────────────┴─────────────┴─────────────┴───────────────────────┘
 * LinkedHashSet/LinkedHashMap maintain insertion order
 ```
@@ -3733,4 +3733,4 @@ This guide covers Junior-level (0-2 years) Flutter interview questions:
 ---
 
 **License**: MIT  
-**Maintained by**: [debasmitasarkar](https://github.com/debasmitasarkar)
+**Maintained by**: [Sunil Kumar](https://github.com/sunilk047)

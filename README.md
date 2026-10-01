@@ -293,7 +293,7 @@ Contributions are welcome! Here's how you can help:
 4. **Translate** - Help reach non-English speakers
 5. **Share** - Star ⭐ and share with others
 
-### Contribution Guidelines
+<!-- ### Contribution Guidelines
 
 ```bash
 # Fork and clone
@@ -307,7 +307,7 @@ git commit -m "Improve explanation for BLoC pattern"
 
 # Push and create PR
 git push origin feature/improve-question-42
-```
+``` -->
 
 ---
 
@@ -337,6 +337,6 @@ If this guide helped you, please:
 ---
 
 
-**Made with 💙 by [Debasmita Sarkar](https://github.com/debasmitasarkar)**
+**Made with 💙 by [Sunil Kumar](https://github.com/sunilk047)**
 
 *Good luck with your interviews! 🍀*
